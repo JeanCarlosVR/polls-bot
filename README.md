@@ -1,4 +1,4 @@
-# Polls Bot 2.0.0 Beta
+# Polls Bot
 Discord Bot
 
 # Enviroment

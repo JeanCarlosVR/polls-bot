@@ -11,29 +11,29 @@ command `npm run production`, and ready you have you own Polls bot.
 
 I recommend use the [official version](https://discord.com/oauth2/authorize?client_id=663104539163099137&permissions=391232&scope=bot), for security and for support me.
 
-## Enviroment
+# Enviroment
 
 ```
 TOKEN=any
 MONGO_URL=any
 ```
 
-## TODO
+# TODO
 
 - [x] Add a command for the change the prefix
 - [ ] Add more utility type of polls
 - [ ] Make a dashboard for vizualize the polls and manage it
 
-## Links
+# Links
 
 **Support**: https://discord.gg/xVkMuMAmqQ
 **Invite Bot**: https://discord.com/oauth2/authorize?client_id=663104539163099137&permissions=391232&scope=bot
 **Status**: https://status.jean.host/785478774
 
-## Contributors
+# Contributors
 
 JeanCarlosVR (Discord: Jean Ruvi#9194)
 
-## Thanks
+# Thanks
 
 Thanks for use **Polls**.

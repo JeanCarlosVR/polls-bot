@@ -20,7 +20,7 @@ MONGO_URL=any
 
 # TODO
 
-- [x] Add a command for the change the prefix
+- [x] Add a command for change the prefix
 - [ ] Add more utility type of polls
 - [ ] Make a dashboard for vizualize the polls and manage it
 

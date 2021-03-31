@@ -46,7 +46,7 @@ export default class extends Command {
         });
 
         this.send({
-            description: `The prefix has been changed to ${args[0].slice(0, 10).trim()}! Try it: \`${args[0].slice(0, 10).trim()}help\``
+            description: `The prefix has been changed! Try it: \`${args[0].slice(0, 10).trim()}help\``
         });
 
         return true;

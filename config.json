@@ -1,0 +1,14 @@
+{
+    "client_id": "801280624207069195",
+    "webhooks": {
+        "cluster": {
+            "id": "758750100750467135",
+            "token": "6NgkSITFy9iE7m6zgvjt8sSksYhkOTndNCJpOKzyGajZgS8O8q8ajzYKFc7_3Qh2chX-"
+        },
+        "shard": {
+            "id": "758750100750467135",
+            "token": "6NgkSITFy9iE7m6zgvjt8sSksYhkOTndNCJpOKzyGajZgS8O8q8ajzYKFc7_3Qh2chX-"
+        }
+    },
+    "bot_schema_model": 0
+}

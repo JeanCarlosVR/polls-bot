@@ -45,17 +45,24 @@ export default class extends Command {
                 description: `\nUsage: \`p!<command> <arguments>\``,
                 fields: [
                     {
-                        name: `:question: / **✅ or ❌**`,
-                        value: "`yrn` `tyrn`",
+                        name: `:question: / Yes or Not`,
+                        value: "`yesornot` `tempyesornot`",
                         inline: false
                     },
                     {
                         name: `:bar_chart: / **Multiple**`,
-                        value: "`multiple`"
+                        value: "`multiple`",
+                        inline: false
+                    },
+                    {
+                        name: `:gear: / **Vanity**`,
+                        value: "`setprefix`",
+                        inline: false
                     },
                     {
                         name: `:robot: / **Bot**`,
-                        value: "`shards` `ping`"
+                        value: " `ping` `shards` `support` `invite`",
+                        inline: false
                     }
                 ]
             });

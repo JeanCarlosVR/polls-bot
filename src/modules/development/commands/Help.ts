@@ -42,6 +42,10 @@ export default class extends Command {
             });
         } else {
             this.send({
+                author: {
+                    name: `${this.client.user.username} Help`,
+                    avatar_url: `${this.client.user.avatarURL}`
+                },
                 description: `\nUsage: \`p!<command> <arguments>\``,
                 fields: [
                     {

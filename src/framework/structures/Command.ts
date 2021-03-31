@@ -36,9 +36,7 @@ export default class CommandStructure {
             helper: props.helper
         }
 
-        if(this.help.category === "development"){
-            this.guildGateway = new GuildGateway(this.client);
-        }
+        this.guildGateway = new GuildGateway(this.client);
     }
 
     public async send(content: any, options?: any): Promise<MessageChannel> {

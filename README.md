@@ -15,7 +15,7 @@ MONGO_URL=any
 
 **Invite Bot**: https://discord.com/oauth2/authorize?client_id=663104539163099137&permissions=391232&scope=bot
 
-**Status via Website**: https://status.jean.host/
+**Status**: https://status.jean.host/785478774
 
 # Contributors
 

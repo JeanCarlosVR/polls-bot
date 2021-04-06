@@ -32,7 +32,7 @@ MONGO_URL=any
 
 # Contributors
 
-JeanCarlosVR (Discord: Jean Ruvi#9194)
+JeanCarlosVR (Discord: iJean#9194)
 
 # Thanks
 
